@@ -1,5 +1,7 @@
 # Visual Studio Code - Single Screen Productivity Script
 ## Never leave the keyboard
+Toggle in and out of your development environment. Similar to iTerm2!
+
 A single key binding to:
 - Show VSCode (Bring VSCode to the front of your screen)
 - Hide VSCode (Return to the last application you were using)
@@ -16,3 +18,5 @@ A single key binding to:
 3. `chmod +x setup.sh`
 4. `./setup.sh`
 5. FastScripts -> Preferences -> Scripts Shortcuts -> VSCodeShortcut -> Double Click in "Shortcut" Column -> Add Shortcut!
+
+![](https://i.imgur.com/iN5T627.png)
